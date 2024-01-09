@@ -17,12 +17,18 @@ My coding journey goals include:
 2. Mastering Node.js.
 3. Building more projects to enhance practical skills.
 
+⚡Fun Fact: ....
+I am accidental coder😅
+
 ## Connect with Me
 Feel free to connect with me on social media or through email:
 
 - [Twitter](https://twitter.com/AsifAli369)
 - [Instagram](https://www.instagram.com/a.s.i.f0007?igsh=eXVlbGJiYXQ4ejRy)
 - Email: asifali45005@gmail.com
+
+
+
 
 Let's code and learn together! 🚀
 
