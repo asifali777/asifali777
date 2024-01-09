@@ -27,8 +27,6 @@ I am accidental coder😅
 <a href="https://instagram.com/https://www.instagram.com/a.s.i.f0007?igsh=exvlbgjiyxq4ejry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/a.s.i.f0007?igsh=exvlbgjiyxq4ejry" height="30" width="40" /></a>
 </p>
 
-- Email: asifali45005@gmail.com
-
 Let's code and learn together! 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifali777&label=Profile%20views&color=0e75b6&style=flat" alt="asifali777" /> </p>
