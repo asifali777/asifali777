@@ -1,7 +1,7 @@
 # 💫About Me
 
 ## Introduction
-👋Hi, I'm Asif, a newbie coder passionate about learning and exploring the world of programming💻. 
+👋Hi, I'm Asif, a newbie Self-taught coder passionate about learning and exploring the world of programming💻. 
 Currently, I'm diving into the fascinating realm of JavaScript and working on various small projects to sharpen my skills.
 
 ## Learning Journey
