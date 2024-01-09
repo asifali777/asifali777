@@ -17,11 +17,11 @@ My coding journey goals include:
 2. Mastering Node.js.
 3. Building more projects to enhance practical skills.
 
-⚡Fun Fact: ....
+
+<h4 align="left">⚡Fun Fact:</h4>
 I am accidental coder😅
 
-## Connect with Me
-Feel free to connect with me on social media or through email:
+## 🌐Socials:
 <p align="left">
 <a href="https://twitter.com/asifali369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asifali369" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/a.s.i.f0007?igsh=exvlbgjiyxq4ejry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/a.s.i.f0007?igsh=exvlbgjiyxq4ejry" height="30" width="40" /></a>
