@@ -10,7 +10,6 @@ Currently, I'm diving into the fascinating realm of JavaScript and working on va
 - HTML
 - CSS
 - JavaScript
-- Node.js 
 
 ## Goals
 My coding journey goals include:
