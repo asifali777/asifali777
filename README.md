@@ -5,10 +5,12 @@
 Currently, I'm diving into the fascinating realm of JavaScript and working on various small projects to sharpen my skills.
 
 ## Learning Journey
-🌱Now, I'm learning and growing in the following areas:
+🌱:
 
+- HTML
+- CSS
 - JavaScript
-- Node.js  
+- Node.js 
 
 ## Goals
 My coding journey goals include:
