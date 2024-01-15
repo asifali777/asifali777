@@ -4,13 +4,6 @@
 👋Hi, I'm Asif, a Self-taught coder passionate about learning and exploring the world of programming💻. 
 Currently, I'm diving into the fascinating realm of JavaScript and working on various small projects to sharpen my skills.
 
-## Learning Journey🌱:
-
-
-- HTML
-- CSS
-- JavaScript
-
 ## Goals
 My coding journey goals include:
 
