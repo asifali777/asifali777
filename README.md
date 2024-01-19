@@ -11,6 +11,10 @@ My coding journey goals include:
 2. Mastering Node.js.
 3. Building more projects to enhance practical skills.
 
+## Intrested In 😃
+- Python
+- Rust
+- Game Dev
 
 <h4 align="left">⚡Fun Fact:</h4>
 I am accidental coder😅
