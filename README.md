@@ -16,8 +16,6 @@ My coding journey goals include:
 - Rust
 - Game Dev
 
-<h4 align="left">⚡Fun Fact:</h4>
-I am accidental coder😅
 
 ## 🌐Socials:
 <p align="left">
